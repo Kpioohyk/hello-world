@@ -1,3 +1,9 @@
+#Hello-World
+
+I am John and I would like to use GitHub to better manage and share my projects while learning from experts on GitHub. I love to travel around to find new interesting foods. 
+
+
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
